@@ -1,2 +1,2 @@
 something
-anycomment to chek
+anycomment to check
